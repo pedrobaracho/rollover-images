@@ -1,7 +1,7 @@
 import { Directive } from '@angular/core';
 
 @Directive({
-  selector: '[appRolloverImage]'
+  selector: 'img[ccRollover]'
 })
 export class RolloverImageDirective {
 
